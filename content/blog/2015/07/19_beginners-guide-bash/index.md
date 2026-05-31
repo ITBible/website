@@ -2,8 +2,9 @@
 title: 'Archive: Beginners Guide to BASH (Born Again Shell)'
 description: 'I will go through some of the most used commands and post screen shots of what it will look like.'
 summary: 'I will go through some of the most used commands and post screen shots of what it will look like.'
-category: Bash
-tags: [Archive, Linux, Bash]
+categories:
+  - Scripting
+tags: [Archive, Linux, BASH]
 date: 2015-07-19
 slug: archive-beginners-guide-to-bash-born-again-shell
 authors:

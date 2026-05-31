@@ -2,7 +2,8 @@
 title: 'Exploring the Future of Microsoft: Innovations in AI, Cloud Computing, and Productivity Tools'
 description: 'Discover how Microsoft is shaping the future with AI, cloud innovations, and productivity tools for modern enterprises.'
 summary: 'Discover how Microsoft is shaping the future with AI, cloud innovations, and productivity tools for modern enterprises.'
-category: News
+categories:
+  - News
 tags: [Microsoft]
 date: 2025-05-02
 slug: exploring-the-future-of-microsoft-innovations-in-ai-cloud-computing-and-productivity-tools

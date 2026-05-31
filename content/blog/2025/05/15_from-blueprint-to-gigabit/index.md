@@ -2,7 +2,8 @@
 title: 'From Blueprint to Gigabit'
 description: 'Learn how to design and implement a computer network for a new building. Step-by-step guide to build a scalable, secure, and seamless network infrastructure.'
 summary: 'Learn how to design and implement a computer network for a new building. Step-by-step guide to build a scalable, secure, and seamless network infrastructure.'
-category: Networking
+categories:
+  - Networking
 tags: [New Construction]
 date: 2025-05-15
 slug: from-blueprint-to-gigabit

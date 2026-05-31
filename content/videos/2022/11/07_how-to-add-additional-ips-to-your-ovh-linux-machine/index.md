@@ -2,7 +2,8 @@
 title: "How to add additional IPs to your OVH Linux machine"
 description: "This is just a simple method for adding fail over IPs to your Linux server at OVH. This works for both Linux VPS's and dedicated servers."
 summary: "This is just a simple method for adding fail over IPs to your Linux server at OVH. This works for both Linux VPS's and dedicated servers."
-category: Networking
+categories:
+  - Networking
 tags: [Tutorial, Linux, Routing]
 date: 2022-11-07
 slug: how-to-add-additional-ips-to-your-ovh-linux-machine

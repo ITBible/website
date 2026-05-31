@@ -2,7 +2,8 @@
 title: 'Getting Started with Linux as a Server: 10 Basic Commands You Need to Know'
 description: 'New to Linux servers? Learn 10 essential Linux commands to confidently manage your server. Beginner-friendly guide for mastering the Linux command line.'
 summary: 'New to Linux servers? Learn 10 essential Linux commands to confidently manage your server. Beginner-friendly guide for mastering the Linux command line.'
-category: Linux
+categories: 
+  - Linux
 tags: [Beginners, BASH, Tutorials]
 date: 2025-05-14
 slug: getting-started-with-linux-as-a-server-10-basic-commands-you-need-to-know

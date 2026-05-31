@@ -2,8 +2,9 @@
 title: 'How US Tariffs Are Reshaping the Tech Landscape'
 description: "Explore the impact of economic protectionism on global tech innovation, supply chains, and consumer choices. Learn how balancing self-reliance with collaboration shapes the industry's future."
 summary: "Explore the impact of economic protectionism on global tech innovation, supply chains, and consumer choices. Learn how balancing self-reliance with collaboration shapes the industry's future."
-category: Economics
-tags: [Hardware]
+categories:
+  - Business
+tags: [Hardware, Economics]
 date: 2025-05-09
 slug: how-us-tariffs-are-reshaping-the-tech-landscape
 showTableOfContents: true

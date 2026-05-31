@@ -2,7 +2,8 @@
 title: 'Homelabbing for Beginners: Break Things, Learn Things, and Have Fun'
 description: 'Discover the joy of homelabbing! Learn how to set up your own homelab, experiment with exciting tech projects, and gain hands-on IT experience.'
 summary: 'Discover the joy of homelabbing! Learn how to set up your own homelab, experiment with exciting tech projects, and gain hands-on IT experience.'
-category: Homelab
+categories: 
+  - Homelab
 tags: [Linux, Windows, Servers, Hypervisor]
 date: 2025-05-13
 slug: homelabbing-for-beginners-break-things-learn-things-and-have-fun

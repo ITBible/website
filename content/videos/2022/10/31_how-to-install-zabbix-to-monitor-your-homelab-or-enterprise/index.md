@@ -2,7 +2,8 @@
 title: "How to install Zabbix to monitor your Homelab or Enterprise"
 description: "A quick rundown of installing Zabbix to monitor your homelab or even enterprise environment."
 summary: "A quick rundown of installing Zabbix to monitor your homelab or even enterprise environment."
-category: Hypervisor
+categories:
+  - Hypervisor
 tags: [Tutorial, ProxmoxVE]
 date: 2022-10-17
 slug: how-to-install-zabbix-to-monitor-your-homelab-or-enterprise

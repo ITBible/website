@@ -2,7 +2,8 @@
 title: 'Why Small Businesses Lean on Managed Service Providers'
 description: 'Discover why small businesses turn to MSPs for IT management, cost savings, and expert support. Learn how to choose the right provider for lasting success.'
 summary: 'Discover why small businesses turn to MSPs for IT management, cost savings, and expert support. Learn how to choose the right provider for lasting success.'
-category: Business
+categories: 
+  - Business
 tags: [Managed Service Provider]
 date: 2025-05-20
 slug: why-small-businesses-lean-on-managed-service-providers

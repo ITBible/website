@@ -2,7 +2,8 @@
 title: 'Linux vs. Windows: Key Differences to Consider'
 description: 'Thinking of trying Linux or improving your setup? Start small, stay secure, and join the conversation to share tips and learn together!'
 summary: 'Thinking of trying Linux or improving your setup? Start small, stay secure, and join the conversation to share tips and learn together!'
-category: Opinion
+categories:
+  - Opinion
 tags: [Linux, Windows]
 date: 2025-05-07
 slug: linux-vs-windows-key-differences-to-consider

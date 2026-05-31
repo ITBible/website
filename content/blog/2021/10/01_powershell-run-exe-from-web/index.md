@@ -2,7 +2,8 @@
 title: 'PowerShell: Run Exe from Web'
 description: "Ever needed to run an executable across many devices (maybe even spanning organizations)? Check this out if you're newer to powershell."
 summary: "Ever needed to run an executable across many devices (maybe even spanning organizations)? Check this out if you're newer to powershell."
-category: Scripting
+categories:
+  - Scripting
 tags: [Powershell]
 date: 2021-10-01
 slug: powershell-run-exe-from-web

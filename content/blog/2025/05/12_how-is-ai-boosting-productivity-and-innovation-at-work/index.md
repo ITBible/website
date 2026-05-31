@@ -2,7 +2,8 @@
 title: 'How Is AI Boosting Productivity and Innovation at Work?'
 description: 'Learn how AI boosts productivity and sparks innovation in the workplace. Discover the benefits, challenges, and tips for balancing AI in business operations.'
 summary: 'Learn how AI boosts productivity and sparks innovation in the workplace. Discover the benefits, challenges, and tips for balancing AI in business operations.'
-category: AI
+categories:
+  - AI
 tags: [Copilot, Claude, OpenAI]
 date: 2025-05-12
 slug: how-is-ai-boosting-productivity-and-innovation-at-work

@@ -59,7 +59,8 @@ Every file should have "Frontmatter" at the beginning of each file. There are a 
 title: '' # Title of the article
 description: '' # Description of the content
 summary: '' # Same as description above
-category: General # please use an existing category, we're trying to keep this limited
+categories: 
+    - General # please use an existing category, we're trying to keep this limited
 tags: [Tag1, Tag2] # please use a sensible list of tags here
 date: 2026-05-31 # date that you want displayed on the article, this must not be in the future
 slug: slug-from-your-folder-name

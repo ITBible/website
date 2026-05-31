@@ -2,7 +2,8 @@
 title: "How to Install and Configure OpenVPN Server and Client for Routing (and other things)"
 description: "There are many things that your own VPN can be used for, from ensuring your ISP isn't spying on you to routing traffic from a data center to your house or even just accessing work resources. Today we're going to talk about installing and configuring a basic OpenVPN setup."
 summary: "There are many things that your own VPN can be used for, from ensuring your ISP isn't spying on you to routing traffic from a data center to your house or even just accessing work resources. Today we're going to talk about installing and configuring a basic OpenVPN setup."
-category: Networking
+categories:
+  - Networking
 tags: [Tutorial, VPN, OpenVPN, Linux]
 date: 2022-11-22
 slug: how-to-install-and-configure-openvpn-server-and-client-for-routing-and-other-things

@@ -2,7 +2,8 @@
 title: 'Navigating a Tech Career Transition After 30: Essential Tips for Success'
 description: 'Explore essential tips for starting a tech career after 30, including building skills, networking, and addressing ageism in the industry.'
 summary: 'Explore essential tips for starting a tech career after 30, including building skills, networking, and addressing ageism in the industry.'
-category: Miscellaneous
+categories:
+  - Miscellaneous
 tags: [Career]
 date: 2025-05-05
 slug: navigating-a-tech-career-transition-after-30-essential-tips-for-success

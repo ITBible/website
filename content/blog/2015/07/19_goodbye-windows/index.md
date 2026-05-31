@@ -2,7 +2,8 @@
 title: 'Archive: Goodbye Windows'
 description: 'So you are reading this probably because you have wondered if you should leave Windows in the dust. Personally this was an easy decision for me and I haven’t looked back.'
 summary: 'So you are reading this probably because you have wondered if you should leave Windows in the dust. Personally this was an easy decision for me and I haven’t looked back.'
-category: Linux
+categories:
+  - Linux
 tags: [Archive, Linux, Windows]
 date: 2015-07-19
 slug: archive-goodbye-windows

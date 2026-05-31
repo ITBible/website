@@ -2,7 +2,8 @@
 title: "Designing a Client Network with OSPF - Part 1"
 description: "Ever wanted to make your client's network dynamic? In this video we configure a client network for use with OSPF."
 summary: "Ever wanted to make your client's network dynamic? In this video we configure a client network for use with OSPF."
-category: Networking
+categories:
+  - Networking
 tags: [Tutorial, OSPF, Routing]
 date: 2022-11-30
 slug: designing-a-client-network-with-ospf-part-1

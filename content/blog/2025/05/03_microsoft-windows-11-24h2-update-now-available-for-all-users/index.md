@@ -2,7 +2,8 @@
 title: 'Microsoft Windows 11 24H2 Update: Now Available for All Users'
 description: 'Microsoft has announced the availability of the Windows 11 24H2 update for all eligible users, featuring new enhancements and improvements despite some ongoing compatibility issues.'
 summary: 'Microsoft has announced the availability of the Windows 11 24H2 update for all eligible users, featuring new enhancements and improvements despite some ongoing compatibility issues.'
-category: Microsoft
+categories:
+  - Microsoft
 tags: [Windows, Updates]
 date: 2025-05-03
 slug: microsoft-windows-11-24h2-update-now-available-for-all-users

@@ -2,7 +2,8 @@
 title: 'My thoughts on Barracuda RMM'
 description: 'Our experience in using a remote monitoring and management experience and who we switched to after loosing 100s of devices and experiencing slow page loads and lack-luster support.'
 summary: 'Our experience in using a remote monitoring and management experience and who we switched to after loosing 100s of devices and experiencing slow page loads and lack-luster support.'
-category: 'Monitoring & Management'
+categories:
+  - Monitoring & Management
 tags: [Networking, Barracuda, Connectwise]
 date: 2021-09-04
 slug: my-thoughts-on-barracuda-rmm

@@ -2,7 +2,8 @@
 title: 'Archive: Virtualization Overview'
 description: 'So about two months ago I started virtualizing my servers and to be honest its probably one of the best decisions I have ever made. There is nothing like saving money and space in my server room.'
 summary: 'So about two months ago I started virtualizing my servers and to be honest its probably one of the best decisions I have ever made. There is nothing like saving money and space in my server room.'
-category: Hypervisor
+categories:
+  - Hypervisor
 tags: [Archive]
 date: 2015-07-19
 slug: archive-virtualization-overview

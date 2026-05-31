@@ -2,7 +2,8 @@
 title: 'Archive: Proxmox VE Review'
 description: 'So since January I have been virtualizing all of my servers with Proxmox VE and I must say I am very happy with it.'
 summary: 'So since January I have been virtualizing all of my servers with Proxmox VE and I must say I am very happy with it.'
-category: Hypervisor
+categories:
+  - Hypervisor
 tags: [Archive, Linux]
 date: 2015-07-19
 slug: archive-proxmox-ve-review

@@ -2,7 +2,8 @@
 title: 'Sweat Smarter, Not Harder: The Rise of Emerging Fitness Tech and Your Home Lab'
 description: 'The world of fitness is rapidly evolving, moving beyond just sweat and reps into a realm where data, personalization, and immersive experiences are taking center stage.'
 summary: 'The world of fitness is rapidly evolving, moving beyond just sweat and reps into a realm where data, personalization, and immersive experiences are taking center stage.'
-category: Opinion
+categories:
+  - Opinion
 tags: [Linux, Windows]
 date: 2025-06-10
 slug: sweat-smarter-not-harder-the-rise-of-emerging-fitness-tech-and-your-home-lab

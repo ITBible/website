@@ -2,7 +2,8 @@
 title: 'Starting an I.T. Career'
 description: 'When getting into the I.T. field there are a few avenues you can take and the avenue you pick can make or break you in the profession.'
 summary: 'When getting into the I.T. field there are a few avenues you can take and the avenue you pick can make or break you in the profession.'
-category: Career
+categories:
+  - Career
 tags: [Miscellaneous, Information Technology, Managed Service Provider, Training]
 date: 2023-08-07
 slug: starting-it-career

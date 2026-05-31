@@ -2,7 +2,8 @@
 title: 'Master Microsoft 365 Security with These Top Conditional Access Policies'
 description: 'Secure Microsoft 365 with conditional access policies like MFA, legacy authentication blocks, and more. Learn to protect your data now!'
 summary: 'Secure Microsoft 365 with conditional access policies like MFA, legacy authentication blocks, and more. Learn to protect your data now!'
-category: Security
+categories:
+  - Security
 tags: [Microsoft 365]
 date: 2025-05-10
 slug: master-microsoft-365-security-with-these-top-conditional-access-policies

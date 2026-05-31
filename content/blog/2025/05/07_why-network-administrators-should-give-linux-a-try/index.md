@@ -2,7 +2,8 @@
 title: 'Why Network Administrators Should Give Linux a Try'
 description: 'Switching to Linux is a game-changer for network admins—smarter management, endless tools, and career growth. Worth a look! What’s your experience with Linux?'
 summary: 'Switching to Linux is a game-changer for network admins—smarter management, endless tools, and career growth. Worth a look! What’s your experience with Linux?'
-category: Linux
+categories:
+  - Linux
 tags: [Linux]
 date: 2025-05-07
 slug: why-network-administrators-should-give-linux-a-try

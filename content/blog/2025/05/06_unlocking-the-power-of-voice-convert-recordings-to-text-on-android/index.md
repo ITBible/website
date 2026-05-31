@@ -2,7 +2,8 @@
 title: 'Unlocking the Power of Voice: Convert Recordings to Text on Android'
 description: 'Learn how to easily convert voice recordings to text on your Android device with various apps and tools. Discover methods using Live Transcribe, Gboard, and more.'
 summary: 'Learn how to easily convert voice recordings to text on your Android device with various apps and tools. Discover methods using Live Transcribe, Gboard, and more.'
-category: Android
+categories:
+  - Android
 tags: [Tutorials]
 date: 2025-05-06
 slug: unlocking-the-power-of-voice-convert-recordings-to-text-on-android

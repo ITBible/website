@@ -2,7 +2,8 @@
 title: "How to do a basic configuration on Caddy v2 Web Server"
 description: "This is a basic walkthrough on configuring Caddy v2 Web Server."
 summary: "This is a basic walkthrough on configuring Caddy v2 Web Server."
-category: Linux
+categories:
+  - Linux
 tags: [Tutorial, Caddy]
 date: 2022-10-07
 slug: how-to-do-a-basic-configuration-on-caddy-v2-web-server

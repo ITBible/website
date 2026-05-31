@@ -2,7 +2,8 @@
 title: 'Beyond Patching: The Hidden Risks of Fortinet Firewalls'
 description: 'A recent security breach in Fortinet firewalls reveals the inadequacy of relying solely on patching for cybersecurity. Discover the implications and necessary remediation steps.'
 summary: 'A recent security breach in Fortinet firewalls reveals the inadequacy of relying solely on patching for cybersecurity. Discover the implications and necessary remediation steps.'
-category: Security
+categories:
+  - Security
 tags: [Firewall, Fortinet]
 date: 2025-04-17
 slug: beyond-patching-the-hidden-risks-of-fortinet-firewalls

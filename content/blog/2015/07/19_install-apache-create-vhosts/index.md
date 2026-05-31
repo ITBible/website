@@ -2,7 +2,8 @@
 title: 'Archive: Install Apache and Create Virtual Hosts in Ubuntu and CentOS'
 description: 'This guide is going to cover installing Apache2 and creating multiple virtual hosts, for different domains and / or subdomains. I will show examples in Ubuntu and CentOS. I started with a fresh install of both operating systems for this tutorial.'
 summary: 'This guide is going to cover installing Apache2 and creating multiple virtual hosts, for different domains and / or subdomains. I will show examples in Ubuntu and CentOS. I started with a fresh install of both operating systems for this tutorial.'
-category: Linux
+categories:
+  - Linux
 tags: [Archive, Apache, Linux]
 date: 2015-07-19
 slug: archive-install-apache-and-create-virtual-hosts-in-ubuntu-and-centos

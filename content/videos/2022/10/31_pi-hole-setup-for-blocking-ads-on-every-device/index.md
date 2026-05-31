@@ -2,7 +2,8 @@
 title: "Pi-Hole Setup for Blocking Ads on Every Device"
 description: "Ever wanted a way to block ads across all devices in your network? Why not try Pi-Hole."
 summary: "Ever wanted a way to block ads across all devices in your network? Why not try Pi-Hole."
-category: Networking
+categories:
+  - Networking
 tags: [Tutorial, PiHole]
 date: 2022-10-31
 slug: pi-hole-setup-for-blocking-ads-on-every-device

@@ -2,7 +2,8 @@
 title: 'Direction of IT Bible'
 description: 'My goal is to foster growth and learning in technology fields. I want IT Bible to grow but I want the community to be a quality resource that can help people.'
 summary: 'My goal is to foster growth and learning in technology fields. I want IT Bible to grow but I want the community to be a quality resource that can help people.'
-category: Miscellaneous
+categories:
+  - Miscellaneous
 tags: [Community Update]
 date: 2023-08-05
 slug: direction-of-it-bible

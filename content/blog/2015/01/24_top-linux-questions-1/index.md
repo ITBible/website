@@ -3,7 +3,8 @@ title: 'Top Linux Questions Series: What is Linux?'
 featureImageCaption: Testing
 description: 'If you are thinking of switching away from Windows or just thinking about what options you have for different Operating Systems (OS’s) you should ask yourself one question “What is Linux?”'
 summary: 'If you are thinking of switching away from Windows or just thinking about what options you have for different Operating Systems (OS’s) you should ask yourself one question “What is Linux?”'
-category: Linux
+categories:
+  - Linux
 date: 2015-01-24
 slug: top-linux-questions-series-what-is-linux
 authors:

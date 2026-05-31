@@ -2,7 +2,8 @@
 title: "Microsoft CEO Highlights Windows 10's Decline and Windows 11's Bright Future"
 description: 'Microsoft CEO Satya Nadella discusses the decline of Windows 10 and the rise of Windows 11, urging users to upgrade before support ends in 2025.'
 summary: 'Microsoft CEO Satya Nadella discusses the decline of Windows 10 and the rise of Windows 11, urging users to upgrade before support ends in 2025.'
-category: Microsoft
+categories:
+  - Microsoft
 tags: [Windows 10, Windows 11]
 date: 2025-05-04
 slug: microsoft-ceo-highlights-windows-10s-decline-and-windows-11s-bright-future
